@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dmpolik4rpov
 - 👀 I’m interested in C++ programming applied in chemistry and mathematics
-- 🌱 I’m currently learning CMake and other useful stuff
 
 
 <!---
